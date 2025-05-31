@@ -93,34 +93,5 @@
     </svg>
     <p>Un triángulo equilátero morado definido por 3 puntos.</p>
   </section>
-
-  <section>
-    <h2>Imágenes Modificadas</h2>
-    <div class="image-group">
-      <div class="image-with-description">
-        <div class="figure-name">Rectángulo</div>
-        <svg width="100" height="100">
-          <rect width="80" height="80" x="10" y="10" fill="lightgray" stroke="black" stroke-width="2" rx="10" />
-        </svg>
-        <p>Cambios: tamaño reducido, color modificado, bordes redondeados con borde negro.</p>
-      </div>
-
-      <div class="image-with-description">
-        <div class="figure-name">Círculo</div>
-        <svg width="100" height="100">
-          <circle cx="50" cy="50" r="35" fill="lightblue" stroke="darkblue" stroke-width="3" opacity="0.8" />
-        </svg>
-        <p>Cambios: radio reducido, color más claro, borde agregado y transparencia.</p>
-      </div>
-
-      <div class="image-with-description">
-        <div class="figure-name">Polígono</div>
-        <svg width="100" height="100">
-          <polygon points="10,90 90,90 50,10" fill="pink" stroke="purple" stroke-width="2" transform="rotate(10,50,50)" />
-        </svg>
-        <p>Cambios: color cambiado, borde añadido, rotación aplicada.</p>
-      </div>
-    </div>
-  </section>
 </body>
 </html>
